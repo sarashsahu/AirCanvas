@@ -1,12 +1,5 @@
 # ✨ AirCanvas - Draw with Your Hands ✋🎨
 
-> A futuristic **Virtual Drawing Slate** that lets you draw in the air using hand gestures powered by **MediaPipe** and **OpenCV**.
-
-https://user-images.githubusercontent.com/placeholder/demo.gif  
-*(Insert a demo GIF or image of the app in action)*
-
----
-
 ## 💡 What is AirCanvas?
 
 **AirCanvas** turns your webcam and hand gestures into a drawing tool. No mouse. No touch. Just your fingers and your imagination.
